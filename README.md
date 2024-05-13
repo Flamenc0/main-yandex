@@ -1,1 +1,1 @@
-# main-yandex
+# games-rating
